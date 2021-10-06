@@ -1,3 +1,3 @@
 # Html-Personal-Site
 
-This is my Online CV
+How to crete a basc online CV / resume
